@@ -14,5 +14,8 @@
 
 <div align="center"><img src="https://count.getloli.com/get/@BuDingOwO" alt=""></div>
 
-<div align="center"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=BuDingOwO&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=0d1117&hide_title=true"  alt=""/> </div>
+<div align="center">
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=BuDingOwO"  alt=""/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuDingOwO&layout=compact"  alt=""/>
+</div>
 
