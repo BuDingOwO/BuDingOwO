@@ -3,8 +3,8 @@
 </div>
 <h3 align="center">一只毛毛柔软的小福腻在线求摸摸~</h3>
 <div align="center">
-  <a href="https://app.forcecat.site/"><img src="https://img.shields.io/badge/Site-站点-blue" alt=""></a>&emsp;
-  <a href="https://space.bilibili.com/526154182"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" alt=""></a>&emsp;
+<!--   <a href="https://app.forcecat.site/"><img src="https://img.shields.io/badge/Site-站点-blue" alt=""></a>&emsp; -->
+<!--   <a href="https://space.bilibili.com/526154182"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" alt=""></a>&emsp; -->
   <a href="mailto:budingowo@forcecat.site"><img src="https://img.shields.io/badge/Email-邮箱-blue" alt=""></a>&emsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=BuDingOWO" alt="">
 </div>
